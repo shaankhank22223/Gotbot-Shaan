@@ -8,7 +8,7 @@ module.exports = {
     name: "up",
     aliases: ["uptime"],
     version: "0.0.7",
-    author: "Siam Ahmed Saan",
+    author: "Shaan Khan",
     countDown: 3,
     role: 0,
     shortDescription: "bot stats image",
@@ -27,7 +27,7 @@ module.exports = {
 
       const ping = Date.now() - event.timestamp;
       const cpuUsage = os.loadavg()[0].toFixed(2);
-      const owner = "Siam Ahmed Saan";
+      const owner = "Shaan Khan";
 
       const canvas = Canvas.createCanvas(1000, 500);
       const ctx = canvas.getContext("2d");
@@ -80,7 +80,7 @@ module.exports = {
         `Uptime: ${uptimeStr}`,
         `Ping: ${ping} ms`,
         `CPU Load: ${cpuUsage}`,
-        `Owner: Siam Ahmed Saan`
+        `Owner: Shaan Khan`
       ];
       ctx.fillStyle = "#F0F0F0";
       ctx.font = "bold 40px Sans";
@@ -106,7 +106,7 @@ module.exports = {
       );
 
       const bodyText = `
-✿•≫────•『SAAN BOT』•────≪•✿
+✿•≫────•『SHAAN BOT』•────≪•✿
 ⏳ Uptime: ${uptimeStr}
 📶 Ping: ${ping} ms
 🖥 CPU Load: ${cpuUsage}
