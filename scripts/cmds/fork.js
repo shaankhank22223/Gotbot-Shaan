@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "fork",
     version: "1.0",
-    author: "Siam Ahmed Saan",
+    author: "Shaan Khan",
     countDown: 3,
     role: 0,
     category: "utility",
@@ -17,7 +17,7 @@ module.exports = {
 
   onStart: async function ({ message }) {
     try {
-      const repo = "SAAN-GOATBOT/SAAN7";
+      const repo = "SHAAN-GOATBOT/SHAAN345";
       const res = await axios.get(`https://api.github.com/repos/${repo}`);
       const data = res.data;
 
