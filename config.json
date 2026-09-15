@@ -47,7 +47,7 @@
   ],
   "reactBy": {
     "delete": [
-      "🗑️",
+      "❤️",
       "❌",
       "😠",
       "😡",
@@ -73,7 +73,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🧞‍♂️𝘽𝙊𝙏 𝙅𝘼𝙉𝙐 𝙂𝙊𝙏𝘽𝙊𝙏🕊️",
+  "nickNameBot": "{ . } × ★™𝘽𝙊𝙏 𝙅𝘼𝙉𝙐❣️",
   "prefix": ".",
   "database": {
     "type": "mongodb",
