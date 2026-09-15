@@ -11,7 +11,7 @@ module.exports = {
     name: "help",
     aliases: ["h"],
     version: "1.25",
-    author: "Ayanokōji fixed by Toshiro 𝗦𝗮𝗮𝗻 𝗘𝘅𝗵𝗮𝘂𝘀𝘁𝗲𝗱",
+    author: "Ayanokōji fixed by Toshiro 𝗦𝗵𝗮𝗮𝗻 𝗘𝘅𝗵𝗮𝘂𝘀𝘁𝗲𝗱",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -112,7 +112,7 @@ module.exports = {
         msg += `╰‣ Total Commands: ${totalCommands}\n`;
         msg += `╭‣ Page ${page}/${totalPages}\n`;
         msg += `╰‣ Prefix: ${prefix}\n`;
-        msg += `╭‣ Admin: 𝗦𝗶𝗮𝗺 𝗔𝗵𝗺𝗲𝗱 𝗦𝗮𝗮𝗻\n`;
+        msg += `╭‣ Admin: 𝗦𝗵𝗮𝗮𝗻 𝗞𝗵𝗮𝗻\n`;
         msg += `╰‣ Type ${prefix}help <command> for details`;
 
         return message.reply({
