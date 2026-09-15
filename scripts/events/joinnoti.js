@@ -32,7 +32,7 @@ module.exports = {
             api.changeNickname(`{ ${prefix} } × ${botName}`, threadID, api.getCurrentUserID());
 
             const welcomeMsg = "Assalamu Alaikum Everyone🥀🥀";
-            const attachmentPath = join(__dirname, "cache", "lv_7413647234832682256_20250105005634.mp4");
+            const attachmentPath = join(__dirname, "cache", "botjoin.mp4");
 
             const mediaInfo = {
                 body: `🌺Shaan🦋🌺 CONNECTED«\n\nBot Made By SHAAN KHAN K☘️\n<------------------------------>\nBOT CONNECTED SUCCESSFUL !!!\n\nAPPROVAL ALLOW IN THIS GROUP!!!\n<------------------------------>\n\nUSE HELP TO SEE COMMAND\n\nUse ${prefix}help to see commands.\n\nexample :\n${prefix}video7 (video songs)\n${prefix}music (audio songs)\n${prefix}help2 (command list)\n${prefix}info\n<<<<<------------------------------>>>>>\nAND FOR ANY REPORT OR CONTACT BOT DEVELOPER\n\nOWNER: 𝐒𝐇𝐀𝐀𝐍\n\n♻️Facebook:\nhttps://www.facebook.com/profile.php?id=100016828397863&mibextid=ZbWKwL\n\nYoutube Site : N/A\n\n☢️ INSTAGRAM: N/A\nhttps://www.instagram.com/shankhank345?igsh=MXVneXZ6bzR4bHhvcg==\n\n☣️Email: shankhank345@gmail.com\n\n⚠️Wp: +92 3368783346`
