@@ -40,7 +40,7 @@ module.exports = {
   config: {
     name: "pair",
     aliases: ["lovepair", "match"],
-    author: "Siam Ahmed Saan",
+    author: "Shaan Khan",
     version: "2.0",
     role: 0,
     category: "love",
