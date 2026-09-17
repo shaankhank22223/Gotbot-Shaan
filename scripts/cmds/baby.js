@@ -11,7 +11,7 @@ module.exports.config = {
 };
 
 module.exports.onStart = async ({ api, event }) => {
-    return api.sendMessage("Group chat me 'bot' likhein reply ke liye!", event.threadID, event.messageID);
+    return api.sendMessage("𝗢𝘄𝗻𝗲𝗿 : 𝗦𝗵𝗮𝗮𝗻 𝗞𝗵𝗮𝗻", event.threadID, event.messageID);
 };
 
 module.exports.onChat = async ({ api, event, usersData }) => {
