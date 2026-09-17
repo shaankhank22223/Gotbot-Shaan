@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff0080&height=200&section=header&text=SAAN%20BOT%20V3&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡Facebook%20Messenger%20Bot%20⚡&descSize=20&descAlignY=60&descColor=FFD700" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff0080&height=200&section=header&text=SHAAN%20BOT%20V3&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡Facebook%20Messenger%20Bot%20⚡&descSize=20&descAlignY=60&descColor=FFD700" width="100%"/>
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+245%2B+Commands+Ready;⚡+Lightning+Fast+Performance;🛡️+Advanced+Anti-Suspension;🎛️+Powerful+Web+Dashboard;💫+Maintained+by+SIAM+AHMED+SAAN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+245%2B+Commands+Ready;⚡+Lightning+Fast+Performance;🛡️+Advanced+Anti-Suspension;🎛️+Powerful+Web+Dashboard;💫+Maintained+by+SHAAN+KHAN)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,11 +20,11 @@
 
 <div align="center">
 
-[![Stars](https://img.shields.io/badge/🌟_Stars-FF69B4?style=for-the-badge&logo=starship&logoColor=white&labelColor=0d0d0d)](https://github.com/SAAN-GOATBOT/SAAN7/stargazers)
-[![Forks](https://img.shields.io/badge/🍴_Forks-00CED1?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)](https://github.com/SAAN-GOATBOT/SAAN7/forks)
-[![Size](https://img.shields.io/badge/📦_Size-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/SAAN-GOATBOT/SAAN7)
-[![Commit](https://img.shields.io/badge/🔄_Updated-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/SAAN-GOATBOT/SAAN7/commits)
-[![License](https://img.shields.io/badge/📜_License-FF4500?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d0d0d)](https://github.com/SAAN-GOATBOT/SAAN7/blob/main/LICENSE)
+[![Stars](https://img.shields.io/badge/🌟_Stars-FF69B4?style=for-the-badge&logo=starship&logoColor=white&labelColor=0d0d0d)](https://github.com/SHAAN-GOATBOT/SHAAN345/stargazers)
+[![Forks](https://img.shields.io/badge/🍴_Forks-00CED1?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)](https://github.com/SHAAN-GOATBOT/SHAAN345/forks)
+[![Size](https://img.shields.io/badge/📦_Size-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/SHAAN-GOATBOT/SHAAN345)
+[![Commit](https://img.shields.io/badge/🔄_Updated-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/SHAAN-GOATBOT/SHAAN345/commits)
+[![License](https://img.shields.io/badge/📜_License-FF4500?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d0d0d)](https://github.com/SHAAN-GOATBOT/SHAAN345/blob/main/LICENSE)
 
 </div>
 
@@ -119,7 +119,7 @@ module.exports = {
   config: {
     name: "commandName",
     version: "2.0",
-    author: "Siam Ahmed Saan",
+    author: "Shaan Khan",
     role: 0,              // 0=All  1=Admin  2=VIP  3=Premium  4=AdminBot  5=Dev  6=Creator
     usePrefix: true,
     description: "Command description here",
@@ -166,10 +166,10 @@ Module Progress Status
 
 ```bash
 # Clone the repository
-git clone https://github.com/SAAN-GOATBOT/SAAN7.git
+git clone https://github.com/SHAAN-GOATBOT/SHAAN345.git
 
 # Navigate to project directory
-cd SAAN-GOAT-BOT/SAAN7
+cd SHAAN-GOAT-BOT/SHAAN345
 
 # Install dependencies
 npm install
@@ -187,14 +187,14 @@ npm start
 
 <div align="center">
 
-<a href="https://www.facebook.com/siam.ahmed.491801">
-  <img src="https://img.shields.io/badge/👤_SIAM_AHMED_SAAN-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://www.facebook.com/shaan-khan">
+  <img src="https://img.shields.io/badge/👤_SHAAN_SHAAN-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 <a 
-<a href="https://github.com/SAAN-GOATBOT/SAAN7/issues">
+<a href="https://github.com/SHAAN-GOATBOT/SHAAN345/issues">
   <img src="https://img.shields.io/badge/🐛_Report_Bug-FF4444?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/SAAN-GOATBOT/SAAN7.git/discussions">
+<a href="https://github.com/SHAAN-GOATBOT/SHAAN345.git/discussions">
   <img src="https://img.shields.io/badge/💬_Discussions-00CED1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -209,7 +209,7 @@ npm start
 Role Name Contribution
 🏆 Original Creator NTKhang03 Goat-Bot-V2 Base
 👑 Modifier SAAN Core Modifications & Enhancements
-🛠️ Maintainer SIAM AHMED SAAN Active Development & Support
+🛠️ Maintainer SHAAN KHAN Active Development & Support
 
 </div>
 
@@ -234,12 +234,12 @@ If you find this project helpful, please consider:
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    SAAN BOT V3                            ║
+║                    SHAAN BOT V3                            ║
 ║                 MIT License (No Derivatives)                ║
 ║                                                             ║
 ║  Copyright (c) 2022 NTKhang03                              ║
-║  Modified by SAAN                                      ║
-║  Maintained by SIAM AHMED SAAN                            ║
+║  Modified by SHAAN                                      ║
+║  Maintained by SHAAN  KHAN                            ║
 ║                                                             ║
 ║  ✔ You may use and share this software freely              ║
 ║  ✘ You may NOT modify or create derivative works           ║
